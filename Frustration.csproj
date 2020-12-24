@@ -6,8 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\DesignPatterns\DesignPatterns.csproj" />
     <ProjectReference Include="..\HardWayCSharpLearning\HardWayCSharpLearning.csproj" />
     <ProjectReference Include="..\JonSkeetWay\JonSkeetWay.csproj" />
+    <ProjectReference Include="..\Practise.DesignPattern.Frsutration\Practise.DesignPattern.Frsutration.csproj" />
   </ItemGroup>
 
 </Project>
